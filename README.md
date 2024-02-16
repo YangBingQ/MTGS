@@ -16,7 +16,7 @@ Some important required packages include:
 * Some basic python packages such as Numpy, Scikit-image,  Scipy ......
 
 ## Usage
-1. Download the Kvasir-SEG and Honeycomb dataset in [Google drive](). Put the data in './data/' folder
+1. Download the Kvasir-SEG and Honeycomb dataset in [Google drive](https://drive.google.com/drive/folders/1RbB-V4UMDHB9-65zVqkMcObB8YtZsiz_?usp=drive_link). Put the data in './data/' folder
 2. Train the model
 ```
 cd code
