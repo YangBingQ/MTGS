@@ -1,5 +1,5 @@
 # MTGS:Multi-task learning for concurrent grading diagnosis and semi-supervised segmentation of honeycomb lung in CT images
-by Bingqian Yang,Xiufang Feng,Yunyun Dong
+by Yunyun Dong,Bingqian Yang,Xiufang Feng,Wenkun Zhang,Daniel Vilet Rodrígu,Shuang Xu
 ## Introduction
 This repository is the Pytorch implementation of "Multi-task learning for concurrent grading diagnosis and semi-supervised segmentation of honeycomb lung in CT images"
 ## Requirements
