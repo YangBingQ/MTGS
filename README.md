@@ -35,5 +35,5 @@ We thank Dr. Xiangde Luo for their elegant and efficient code base.
 
 ## Note
 * The repository is being updated.
-* Contact: Bingqian Yang (yangbingqian2000@163.com)
+* Contact: Xiufang Feng (fxf_tyut@163.com)
 
